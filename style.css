@@ -201,11 +201,7 @@ body {
 }
 
 /* footer */
-.footer{
-    background-image: url('./images/footer-img.jpg');
-    filter: alpha(opacity=50)
-   
-}
+
 .section-5{
     margin-bottom: 0%;
 }
@@ -214,12 +210,14 @@ body {
 }
 .section-5 .social i{
     padding-top: 10px;
-    color: black;
+    color: rgb(165, 0 , 203);
     font-size: 20px;
 }
 .section-5 .btn-light {
     background: rgb(165, 0 , 203);
+    border: none;
     color: white;
+    margin: 5px;
 }
 .section-5 .form-control {
     border-color: rgb(165, 0 , 203);
